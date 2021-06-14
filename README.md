@@ -9,6 +9,7 @@ C++ Program Folder Contain the Assignments as Follow:
 4.Number to word Conversion
 5.Book management system using linked list
 6.Return all the permutation of given array
+7. Return string which follows the pattern of wild card character
 
 
 C-Program Folder:
